@@ -20,4 +20,4 @@ Estamos todos no mesmo cruzeiro, e como diz a frase do ator, apresentador, pilot
 ## Connect with me :
 <br>
 <a href="https://www.facebook.com/dayane.alves.967422/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="facebook-logo"/> </a>
-<a href="www.linkedin.com/in/dayane-alves-329a3626b"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="facebook-logo"/> </a>
+<a href="HTTPS://www.linkedin.com/in/dayane-alves-329a3626b"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="facebook-logo"/> </a>
