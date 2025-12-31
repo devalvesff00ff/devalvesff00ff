@@ -13,7 +13,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e focando m
 
 #🛠️ Tecnologias e Ferramentas
 * **Front-end:** HTML5, CSS3, JavaScript (em constante aperfeiçoamento).
-* **Certificações:** Desenvolvimento Web (IBM), Formação Acelerada Front-end (Softex), IA (Fundação Bradesco).
+* **Certificações:** Desenvolvimento Web (IBM), Formação Acelerada Front-end (Softex), IA (Fundação Bradesco),  Front-End ( B7 WEB)
 
 ### 📫 Como me encontrar
 * [LinkedIn] (https://www.linkedin.com/in/dayane-alves-329a3626b/)
